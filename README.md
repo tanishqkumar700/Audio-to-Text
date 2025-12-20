@@ -38,8 +38,8 @@ Upload an audio file from the homepage, start transcription, then review or down
 ## Screenshots
 
 <p align="center">
-    <img src="screenshots/Screenshot from 2025-12-20 21-20-07.png" alt="Upload and transcribe interface" width="48%" />
-    <img src="screenshots/Screenshot from 2025-12-20 21-20-46.png" alt="Transcription result view" width="48%" />
+    <img src="screenshots/1.png" alt="Upload and transcribe interface" width="48%" />
+    <img src="screenshots/2.png" alt="Transcription result view" width="48%" />
 ;</p>
 
 ## Project Structure
