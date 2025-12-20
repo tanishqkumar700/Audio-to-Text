@@ -35,6 +35,7 @@ env/
 Thumbs.db
 
 # Project specific
+screenshots/*.png
 uploads/*.wav
 uploads/*.mp3
 uploads/*.flac

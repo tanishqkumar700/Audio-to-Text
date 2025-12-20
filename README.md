@@ -35,6 +35,13 @@ Open `http://localhost:5000` in your browser.
 
 Upload an audio file from the homepage, start transcription, then review or download the resulting text.
 
+## Screenshots
+
+<p align="center">
+    <img src="screenshots/Screenshot from 2025-12-20 21-20-07.png" alt="Upload and transcribe interface" width="48%" />
+    <img src="screenshots/Screenshot from 2025-12-20 21-20-46.png" alt="Transcription result view" width="48%" />
+;</p>
+
 ## Project Structure
 
 ```
@@ -50,6 +57,8 @@ Upload an audio file from the homepage, start transcription, then review or down
 │   └── index.html         # Main web interface
 ├── uploads/               # Temporary audio file storage
 │   └── .gitkeep           # Keep directory in version control
+├── assets/
+│   └── screenshots/       # README screenshots (add your PNGs here)
 └── .vscode/               # VS Code settings
     └── settings.json      # Python interpreter configuration
 ```
